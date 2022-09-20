@@ -7,7 +7,7 @@ This homework set is dedicated to helping you familiarize yourself with developm
 
 This homework will take anywhere from < 1 hour - 5 hours to complete depending on how much you'd like to practice/what your current skill level is. 
 
-**Homework submission link: [Airtable](https://airtable.com/appnMzRZ1xvyIFQKs/tbl5YMUzl1woqxSBW/viwknwAinjIM3lI0f?blocks=hide)**
+**Homework submission link: [Airtable](https://airtable.com/shrYVpNUhypw7Ik3M)**
   
 If you have any questions, feel free to email us:  
 Ryan: [ryan@ubcblockchain.com](mailto:ryan@ubcblockchain.com)
