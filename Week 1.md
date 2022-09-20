@@ -1,7 +1,7 @@
 # UBC Blockchain Developer Workshops
   
 ## Homework 1
-Welcome to the course, and congrats on completing the first session!  
+Welcome to the bootcamp, and congrats on completing the first session!  
   
 This homework set is dedicated to helping you familiarize yourself with development and the blockchain.  
 
