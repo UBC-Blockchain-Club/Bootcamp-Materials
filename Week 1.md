@@ -25,6 +25,7 @@ Ashrey: [ashreygangwani@gmail.com](mailto:ashreygangwani@gmail.com)
 These courses will help you get started with front and backend development. They’re optional but strongly recommended for beginners
 -   HTML/CSS - [Frontend Mastery Course](https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-jUYq1.bknDfI7ZdtbMf4FQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) (3 hours~)    
 -   JavaScript - [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) 
+- Git - [Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc&themeRefresh=1) (30 mins, HIGHLY RECOMMENDED if you do not already know Git!)
 
 ### Blockchain Readings (Required):
 -   [An overview of all web3](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#) (a lot of topics here so skim through things you already know)
