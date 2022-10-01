@@ -20,7 +20,7 @@ Ashrey: [ashreygangwani@gmail.com](mailto:ashreygangwani@gmail.com)
 
 ## Programming homework (required)
 
-We’d like you to complete sections [1,2] of the [Crypto Zomvies](https://cryptozombies.io/en/course/) course. This will give you the opportunity to play around with Solidity and better understand the language.
+We’d like you to complete sections [1,2] of the [Crypto Zombies](https://cryptozombies.io/en/course/) course. This will give you the opportunity to play around with Solidity and better understand the language.
 
 ## Programming Principles and Design (Required):
 - [OOP in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
