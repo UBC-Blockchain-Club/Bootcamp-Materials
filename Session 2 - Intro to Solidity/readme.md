@@ -1,6 +1,6 @@
 # UBC Blockchain Developer Workshops
   
-## Homework 1
+## Homework 2
 Congrats on completing the second workshop of the UBC Blockchain Developer Bootcamp!
 
 This homework set is dedicated to helping you familiarize yourself with Solidity.
