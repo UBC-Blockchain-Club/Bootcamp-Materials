@@ -1,5 +1,5 @@
 # Bootcamp-Materials
-Welcome to the UBC Blokchain Developer Bootcamp! This repository contains all of the homework files and course resources you need.
+Welcome to the UBC Blockchain Developer Bootcamp! This repository contains all of the homework files and course resources you need.
 
 View the course website [here](https://ubcblockchain.com)
 
