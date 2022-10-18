@@ -8,7 +8,7 @@ This week we're partnering with [Alchemy](https://www.alchemy.com) for the homew
 Follow the below video (1.5hr long), push your code to Github and submit the repo link along with your name/wallet for a snazzy NFT this week:
 - Link to video: https://www.youtube.com/watch?v=cxxKdJk55Lk
 
-**Homework submission link: [Airtable](https://airtable.com/shruP9dFWzsd2a8CI)
+**Homework submission link: [Airtable](https://airtable.com/shruP9dFWzsd2a8CI)**
   
 If you have any questions, feel free to email us:  
 Ryan: [ryan@ubcblockchain.com](mailto:ryan@ubcblockchain.com)
