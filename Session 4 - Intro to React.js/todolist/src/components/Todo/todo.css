@@ -1,0 +1,21 @@
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px #F4F4F4 solid;
+    width: 240px;
+    padding: 0.8rem 2rem;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.delete {
+    cursor: pointer;
+    padding: 1px 1px;
+    border-radius: 100%;
+}
+
+.delete:hover {
+    background: #f4f4f4;
+    
+}

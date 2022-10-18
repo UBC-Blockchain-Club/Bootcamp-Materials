@@ -1,0 +1,6 @@
+.transaction {
+    border: 2px #F1F1F1 solid;
+    border-radius: 8px;
+    padding: 1em;
+    margin: 1em 0;
+}

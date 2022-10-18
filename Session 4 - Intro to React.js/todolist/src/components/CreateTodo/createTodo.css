@@ -1,0 +1,27 @@
+.createMenu {
+    margin-bottom: 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    border: 2px #F4F4F4 solid;
+    border-radius: 8px;
+    padding: 0.5em 0.7em;
+    font-size: 1em;
+    color: #A1A1A1;
+    margin: 1rem;
+}
+
+.add {
+    background-color: #2759ff;
+    color: white;
+    border: none;
+    font-size: 1em;
+    padding: 0.7em 1em;
+    border-radius: 8px;
+    cursor: pointer;
+}
